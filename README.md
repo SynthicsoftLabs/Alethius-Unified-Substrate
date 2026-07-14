@@ -336,7 +336,7 @@ python hotstuff/bft_consensus.py              # Layer 5: Consensus
 
 **Author:** Adam Joseph Rivers, M.S. Computer Engineering  
 **Institution:** SynthicSoft Labs LLC  
-**License:** MIT — Use, modify, and distribute freely with attribution
+**License:** BSD-2 — Use, modify, and distribute with attribution and copyright notice inclusion 
 
 **Immutable Attribution:** Every file contains the Rivers Standard v3.0 header:
 ```
