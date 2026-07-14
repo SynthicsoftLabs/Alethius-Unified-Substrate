@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*.egg-info/
+*.log
+/tmp/
+aletheia_*.json
+v44_state.json
+*.gguf
+*.safetensors
+output/

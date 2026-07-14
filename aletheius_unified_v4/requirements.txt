@@ -1,0 +1,5 @@
+# ALETHEIUS UNIFIED v4.0 — The Synthic Spark Substrate
+# Adam Joseph Rivers, CEO Synthicsoft Labs LLC
+# July 14, 2026
+
+numpy>=1.21.0
